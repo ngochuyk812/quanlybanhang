@@ -1,0 +1,27 @@
+.mess{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 70px;
+    background-color: white;
+    z-index: 2;
+    position: fixed;
+    transition: all;
+    transition-duration: 0.6s;
+    
+}
+.mess:hover{
+    width: 360px;
+
+}
+.header-mess{
+    height: 52px;
+    background-color: rgb(27 35 48);
+
+}
+.icon-mess{
+    font-size: 30px;
+    margin-top: 10px;
+    color: white;
+}
